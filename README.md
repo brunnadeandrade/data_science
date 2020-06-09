@@ -17,3 +17,7 @@ Fonoaudióloga de formação e formanda em ciências contábeis, ambas pela Univ
 **Links**
 * [Instagram](https://bit.ly/3dAiou0)
 * [LinkedIn](https://bit.ly/30dqQvh)
+
+# Projetos
+
+* **Analisando os Dados do Airbnb de Roma:** https://bit.ly/3hcdXYr
