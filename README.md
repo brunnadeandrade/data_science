@@ -20,4 +20,5 @@ Fonoaudióloga de formação e formanda em ciências contábeis, ambas pela Univ
 
 # Projetos
 
-* **Analisando os Dados do Airbnb de Roma:** https://bit.ly/3hcdXYr
+* **Analisando os dados do Airbnb de Roma:** https://bit.ly/3hcdXYr
+* **Analisando a violência no Rio de Janeiro:** https://bit.ly/2zz02L1
